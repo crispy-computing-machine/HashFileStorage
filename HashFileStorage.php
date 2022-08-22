@@ -1,5 +1,5 @@
 <?php
-namespace CoreLibrarys;
+namespace Util;
 /**
  * Class HashFileStorage
  *
