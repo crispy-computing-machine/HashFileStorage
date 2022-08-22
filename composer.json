@@ -1,0 +1,7 @@
+{
+  "name": "crispy-computing-machine/hashfilestorage",
+  "description": "PHP Hash File Storage",
+  "require": {
+    "php": ">=7.4"
+  }
+}
